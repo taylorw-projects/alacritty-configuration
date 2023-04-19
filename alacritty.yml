@@ -1,5 +1,5 @@
 import:
-  - ~/.config/alacritty/catppuccin/catppuccin-frappe.yml
+  - ~/.config/alacritty/catppuccin-frappe.yml
 
 # Configuration for Alacritty, the GPU enhanced terminal emulator.
 
